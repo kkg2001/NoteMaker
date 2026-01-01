@@ -107,7 +107,7 @@ The React app will run on `http://localhost:3000` and automatically open in your
 ## Project Structure
 
 ```
-notes-app/
+NoteMaker/
 ├── backend/
 │   ├── models/
 │   │   └── Note.js          # Mongoose Note model
@@ -151,11 +151,3 @@ notes-app/
 - 🌙 Dark mode
 - 📤 Export notes
 - ☁️ Cloud sync
-
-## License
-
-MIT License
-
-## Author
-
-Built with ❤️ using the MERN stack
